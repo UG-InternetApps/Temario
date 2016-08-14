@@ -40,7 +40,9 @@ Abrir un Issue en la plataforma de Github.
     * Node-JS.
     * NO-SQL.
 5. Despliegue de aplicaciones.
-6. IOT 
+6. IOT.   
+
+
 ## Criterios de evaluación
 Exámenes: 30%  
 Tareas: 30% :mortar_board: :hourglass:   
