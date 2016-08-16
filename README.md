@@ -8,12 +8,12 @@ JuanCrg90@gmail.com
 
 ## Descripción del curso
 **Area**: Disciplinar  
-**Pre-requisitos**: Sistemas de administración de datos
+**Pre-requisitos**: Sistemas de administración de datos 
 **Objetivo del curso**: El alumno obtendrá los conocimientos necesarios para desarrollar y desplegar, aplicaciones orientadas a internet.
 
 **Contacto:**  
-[AI2016-1][Iniciales Apellidos Nombres] Asunto a tratar  
-[AI2016-1][RGJC] Tarea XX  
+[AI2016-2][Iniciales Apellidos Nombres] Asunto a tratar  
+[AI2016-2][RGJC] Tarea XX  
 Abrir un Issue en la plataforma de Github.
 
 ## Temario
