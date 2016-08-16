@@ -8,7 +8,7 @@ JuanCrg90@gmail.com
 
 ## Descripción del curso
 **Area**: Disciplinar  
-**Pre-requisitos**: Sistemas de administración de datos 
+**Pre-requisitos**: Sistemas de administración de datos  
 **Objetivo del curso**: El alumno obtendrá los conocimientos necesarios para desarrollar y desplegar, aplicaciones orientadas a internet.
 
 **Contacto:**  
